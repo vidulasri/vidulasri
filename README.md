@@ -2,10 +2,10 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>YOUR NAME HERE</strong>
+  Hi, I'm <strong>Vidulasri R D</strong>
 </h1>
 
-<h3 align="left">Full Stack Developer • Flutter Enthusiast</h3>
+<h3 align="left">Full Stack Developer</h3>
 
 <div align="left">
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -18,21 +18,18 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
+  <a href="mailto:vidulasrird@gmail.com"><img src="https://img.shields.io/badge/📧vidulasrird@gmail.com-1e1e2e?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
 </p>
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/vidulasri" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/vidulasri-r-d-477278316/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -53,11 +50,11 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vidulasri&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vidulasri&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidulasri&layout=compact&theme=tokyonight&hide_border=true" />
-
+</p>
 </div>
